@@ -1,0 +1,74 @@
+[
+  {
+    "n": "A",
+    "t": [
+      { "n": "Qatar", "r": 51 },
+      { "n": "Ecuador", "r": 46 },
+      { "n": "Senegal", "r": 20 },
+      { "n": "Netherlands", "r": 10 }
+    ]
+  },
+  {
+    "n": "B",
+    "t": [
+      { "n": "England", "r": 5 },
+      { "n": "Iran", "r": 21 },
+      { "n": "USA", "r": 15 },
+      { "n": "Wales", "r": 18 }
+    ]
+  },
+  {
+    "n": "C",
+    "t": [
+      { "n": "Argentina", "r": 4 },
+      { "n": "Saudi Arabia", "r": 49 },
+      { "n": "Mexico", "r": 9 },
+      { "n": "Poland", "r": 26 }
+    ]
+  },
+  {
+    "n": "D",
+    "t": [
+      { "n": "France", "r": 3 },
+      { "n": "Peru", "r": 22 },
+      { "n": "Denmark", "r": 11 },
+      { "n": "Tunisia", "r": 35 }
+    ]
+  },
+  {
+    "n": "E",
+    "t": [
+      { "n": "Spain", "r": 7 },
+      { "n": "Costa Rica", "r": 31 },
+      { "n": "Germany", "r": 12 },
+      { "n": "Japan", "r": 23 }
+    ]
+  },
+  {
+    "n": "F",
+    "t": [
+      { "n": "Belgium", "r": 2 },
+      { "n": "Canada", "r": 38 },
+      { "n": "Morocco", "r": 24 },
+      { "n": "Croatia", "r": 16 }
+    ]
+  },
+  {
+    "n": "G",
+    "t": [
+      { "n": "Brazil", "r": 1 },
+      { "n": "Serbia", "r": 25 },
+      { "n": "Switzerland", "r": 14 },
+      { "n": "Cameroon", "r": 37 }
+    ]
+  },
+  {
+    "n": "H",
+    "t": [
+      { "n": "Portugal", "r": 8 },
+      { "n": "Ghana", "r": 60 },
+      { "n": "Uruguay", "r": 13 },
+      { "n": "South Korea", "r": 29 }
+    ]
+  }
+]
